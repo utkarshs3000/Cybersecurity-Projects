@@ -4,6 +4,5 @@
 /04-System-Hacking/
 /05-Malware-Threats/
 /06-Capstone/
-/Assets (screenshots, diagrams)/
 README.md
 
