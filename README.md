@@ -1,5 +1,3 @@
-# Cybersecurity-Projects
-Hands-On work of Cybersecurity Labs
 /01-Network-Scanning/
 /02-Enumeration/
 /03-Vulnerability-Analysis/
@@ -8,3 +6,4 @@ Hands-On work of Cybersecurity Labs
 /06-Capstone/
 /Assets (screenshots, diagrams)/
 README.md
+
